@@ -1,0 +1,33 @@
+-------------------------------------------------------------------------------
+BATHYMETRIC FROM SfM README FILE:
+-------------------------------------------------------------------------------
+Version: 1.0
+-------------------------------------------------------------------------------
+
+The copyright and licensing terms are contained in the file "LICENSE".
+The Compatible for running program in MATLAB Version R2019B or please read install.txt.
+
+-------------------------------------------------------------------------------
+BATHYMETRIC FROM SfM DESCRIPTION:
+LP_Tides Software for calculate refractive index corretion from point cloud Structure From Motion (SfM).
+Developed by Teguh Sulistian , Geospatial Information Agency of Indonesia (BIG). 
+
+
+-------------------------------------------------------------------------------
+How to Use:
+1. Prerequisites for Deployment Package , more detail please read install.txt
+2. Open Bathymetric From SfM
+3. Input data is SfM Point cloud (.LAS)
+4. You can using Bathymetric SfM for calculate refractive index ,apply refractive correction and 
+calculate RMSE and accuracy of the data 
+4. Example for input data in Data_Example folder
+
+-------------------------------------------------------------------------------
+Output Of Program :
+1. Corrected Point Cloud (.LAS)
+2. Accuracy of the data
+
+-------------------------------------------------------------------------------
+
+Support and documentation (teguh.sulistian@big.go.id)
+Enjoy and hope that helps you .

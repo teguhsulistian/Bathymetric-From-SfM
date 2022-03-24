@@ -1,0 +1,31 @@
+------------------------------------------------------------------------------
+Bathymetric From SfM COPYRIGHT, LICENSING AND CAVEAT:
+-------------------------------------------------------------------------------
+Version: 1.0
+-------------------------------------------------------------------------------
+
+This file contains the copyright and licensing terms for the Bathymetric From SfM free
+Software for calculate refractive index corretion from point cloud Structure From Motion (SfM).
+Developed by Teguh Sulistian, Geospatial Information Agency of Indonesia (BIG). 
+This functions uses lasdata.m script by Teemu Kumpumki / Tampere University of Technology 2014
+and LASWrite.m script by Matthew Parkan, EPFL - GIS Research Laboratory (LASIG) 2018
+-------------------------------------------------------------------------------
+
+Bathymetric From SfM Copyright (C) 2022 by
+Teguh Sulistian (teguh.sulistian@big.go.id)
+  Center of Marine and Coastal Mapping
+  Geospatial Information Agency of Indonesia (BIG)
+  Cibinong - Bogor (16912)
+All Rights Reserved
+All Wrongs Remembered
+
+-------------------------------------------------------------------------------
+
+The Bathymetric From SfM does not come with any warranties, nor is it guaranteed to work
+on your computer or to do anything useful. The user assumes full responsibility
+for the use of this system. In particular, Teguh Sulistian,
+Center of Marine and Coastal Mapping, Geospatial Information Agency of Indonesia (BIG) 
+are NOT responsible for any damage that may follow from the correct or incorrect use
+of these programs.
+
+-------------------------------------------------------------------------------
